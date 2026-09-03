@@ -23,15 +23,7 @@
 
 ---
 
-## 📸 预览
 
-| 登录界面 | 聊天主窗口 | 迷你模式 |
-|:---:|:---:|:---:|
-| ![登录](screenshots/login.png) | ![主窗口](screenshots/main.png) | ![迷你](screenshots/mini.png) |
-
-*(请将截图放到 `screenshots/` 目录下，也可先留空)*
-
----
 
 ## 🚀 快速开始
 
