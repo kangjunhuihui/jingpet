@@ -1,0 +1,19 @@
+# 鲸鲸聊天助手 —— 运行依赖（Python 3.12）
+# 安装：pip install -r requirements.txt
+PySide6>=6.6
+openai>=1.0
+selenium>=4.6
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# 可选：开发/测试（已配置为 pytest 兼容测试，装不装都能跑）
+# pytest>=8.0
+
+# 可选：自动管理 WebDriver 驱动版本（未安装时由 Selenium Manager 兜底）
+# webdriver-manager>=4.0
+
+# 可选：系统级密钥存储（Windows Credential Manager 等；未安装时使用本地 XOR 混淆）
+# keyring>=24.0
+
+# 可选：精确 token 统计（未安装时使用内置启发式估算）
+# tiktoken>=0.5
