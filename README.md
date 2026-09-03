@@ -35,7 +35,7 @@
 
 #### 方式一：使用打包好的 exe（推荐）
 
-从 [Releases](https://github.com/yourname/jingjing/releases) 下载最新版本：
+从[Releases](https://github.com/kangjunhuihui/jingpet/releases) 下载最新版本：
 
 - **登录版**：`鲸鲸.exe`，每次启动输入 API Key。
 - **个人版**：`user/鲸鲸.exe` + `APIkey.txt` + `start_jingjing.vbs`。  
@@ -44,7 +44,7 @@
 #### 方式二：从源码运行
 
 ```bash
-git clone https://github.com/yourname/jingjing.git
+git clone git clone https://github.com/kangjunhuihui/jingpet.git
 cd jingjing
 pip install -r requirements.txt
 python app.py          # 登录版
